@@ -1,0 +1,4 @@
+interface:
+  display_name: "理论研究报告"
+  short_description: "界定研究概念，比较理论机制及适用条件，核对文献依据并撰写中文报告"
+  default_prompt: "使用 $theory-research-report 撰写中文报告，比较制度信任影响政策遵从的理论机制。"
